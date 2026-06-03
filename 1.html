@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tadika Elit Ceria | Home</title>
+    <!-- Fonts CDN Fix -->
+    <link href="googleapis.com" rel="stylesheet">
+    <!-- Project Stylesheets -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Favicon -->
+    <link rel="icon" href="images/tec_logo.ico" type="image/x-icon">
+    <style>
+        /* Base styles */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+/* Burger Button styling */
+.burger-btn {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 10;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.burger-btn span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: #333;
+  transition: 0.3s;
+}
+
+/* Sidebar styling */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 100vh;
+  background-color: #111;
+  padding-top: 80px;
+  /* Hides the sidebar to the left */
+  transform: translateX(-100%); 
+  /* Smooth sliding effect */
+  transition: transform 0.3s ease-in-out; 
+  z-index: 5;
+}
+
+/* Class to slide the sidebar into view */
+.sidebar.open {
+  transform: translateX(0);
+}
+
+/* Navigation Links */
+.nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li a {
+  display: block;
+  padding: 15px 25px;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.nav-links li a:hover {
+  background-color: #333;
+}
+
+    </style>
+</head>
+<body><!-- Burger Button -->
+<button class="burger-btn" id="burgerBtn">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
+
+<!-- Sidebar Navigation -->
+<nav class="sidebar" id="sidebar">
+  <ul class="nav-links">
+    <li><a href="index.html" style="color: var(--primary-color, #ff6b6b);">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="program.html">Programs</a></li>
+            <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+<script>
+    const burgerBtn = document.getElementById('burgerBtn');
+const sidebar = document.getElementById('sidebar');
+
+burgerBtn.addEventListener('click', () => {
+  sidebar.classList.toggle('open');
+});
+
+</script>
+</body>
+</html>

@@ -1,0 +1,630 @@
+<!--<div class="info-item">
+                <div class="info-icon">📍</div>
+                <div>123 Playful Lane, Imagination City, Malaysia</div>
+            </div>
+            
+            <div class="info-item">
+                <div class="info-icon">📞</div>
+                <div>+60 3-1234 5678</div>
+            </div>
+            
+            <div class="info-item">
+                <div class="info-icon">✉️</div>
+                <div>hello@tadikaelitceria.com</div>
+            </div>
+
+            <div class="info-item">
+                <div class="info-icon">⏰</div>
+                <div>Mon - Fri: 8:00 AM - 5:00 PM</div>
+            </div>-->
+
+
+
+<div>
+        <div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-91cb88d" data-id="91cb88d" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d8ac716 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="d8ac716" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">LITTLE GENIUS PRE SCHOOL PROGRAMME BENEFITS GAINED BY CUSTOMERS?</h2>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-53f2383 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53f2383" data-element_type="section" data-e-type="section" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-cd94e07" data-id="cd94e07" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-acd26a6 elementor-widget elementor-widget-heading" data-id="acd26a6" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">LITTLE GENIUS UNIQUE ATTRIBUTES</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-19ea98f elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="19ea98f" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpath d='M0,6c6,0,0.9,11.1,6.9,11.1S18,6,24,6'/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5d6767d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5d6767d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Islamic English Preschool,</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Dual-track curriculum (Academic and Islamic),</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">English Medium &amp; STEM focus </span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Teachers Training</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Small Class Ratio 1:15</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Guaranteed Can Solat Read and Write</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Focus Early Childhood Development</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Providing complete ECOSystem - Health, Care, Education, Safety and Nutritions</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Accelerated Learning &amp; Fast Reading Strategy</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-555b402" data-id="555b402" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ba33a76 elementor-widget elementor-widget-heading" data-id="ba33a76" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">STEM FOCUS
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-be9f0aa elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="be9f0aa" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpath d='M0,6c6,0,0.9,11.1,6.9,11.1S18,6,24,6'/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c0ffff8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c0ffff8" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Early exposure to STEM (Science, Technology, Engineering, Mathematics) subjects.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Hands-on activities using Scientist Kits to develop critical thinking and problem-solving skills.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Use of AI pedagogy to familiarize children with future technologies. Providing Integrated islamic based Innovations Blocks ( Genius Innovations). Intro to Robotics and Codings.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Teaching of basic computers and Computerized Thinking Skills.</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-db8e9a5" data-id="db8e9a5" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-97c3908 elementor-widget elementor-widget-heading" data-id="97c3908" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">HOLISTIC DEVELOPMENTS
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-571dc83 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="571dc83" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpath d='M0,6c6,0,0.9,11.1,6.9,11.1S18,6,24,6'/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ddf6743 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ddf6743" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">A balanced approach to education, combining academic rigor with moral and ethical teachings.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Activities designed to nurture physical, emotional, social, and intellectual growth.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">A supportive environment that encourages creativity, curiosity, and confidence</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bde17d2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bde17d2" data-element_type="section" data-e-type="section" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-38f78b9" data-id="38f78b9" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ddfdbd elementor-widget elementor-widget-heading" data-id="6ddfdbd" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">ISLAMIC VALUES
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b8d2f3d elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="b8d2f3d" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpath d='M0,6c6,0,0.9,11.1,6.9,11.1S18,6,24,6'/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9ecd929 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9ecd929" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Integration of Islamic teachings and practices within the daily routine.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Guaranteed ability to perform solat (prayer), read, and write in line with Islamic principles.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Emphasis on Islamic moral values, sunnah, discipline, and respect as part of holistic education.</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-23b2400" data-id="23b2400" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fb312c8 elementor-widget elementor-widget-heading" data-id="fb312c8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">ACADEMIC EXCELLENCE
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1949498 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1949498" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpath d='M0,6c6,0,0.9,11.1,6.9,11.1S18,6,24,6'/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-24e3198 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="24e3198" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Emphasis on strong foundational skills in reading, writing, and arithmetic.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Introduction to advanced subjects: basic computers, AI pedagogy, robotics, and coding</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Use of Scientist Kits to spark curiosity and foster a love for science</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fa3f5d8" data-id="fa3f5d8" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8d5d8aa elementor-widget elementor-widget-heading" data-id="8d5d8aa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">QUALIFIED EDUCATORS
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-951481c elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="951481c" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpath d='M0,6c6,0,0.9,11.1,6.9,11.1S18,6,24,6'/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b582835 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b582835" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Experienced teachers skilled in both academic and Islamic curriculum.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Continuous professional development to stay updated with modern educational practices.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-square"></i>						</span>
+										<span class="elementor-icon-list-text">Personalized attention to cater to the unique needs of each child.</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+    </div>
+
+
+
+
+
+
+
+
+	.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 20px 0;
+}
+/* Base style for the icons */
+.social-icons a {
+    display: inline-block; /* Required for the transform/bounce to work */
+    text-decoration: none;
+    font-size: 2rem;
+    color: var(--text-color); /* Initial dark color */
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Smooth 'bouncy' transition */
+}
+
+/* Individual Brand Colors on Hover */
+.social-icons a[aria-label="Instagram"]:hover {
+    color: #E1306C; /* Instagram Pink */
+}
+.social-icons a[aria-label="Facebook"]:hover {
+    color: #1877F2; /* Facebook Blue */
+}
+.social-icons a[aria-label="TikTok"]:hover {
+    color: #000000; /* TikTok Black/Dark */
+    text-shadow: 2px 2px #fe2c55, -2px -2px #25f4ee; /* Optional: Cool TikTok 'glitch' shadow */
+}
+
+
+<!--
+        <h2>Apa Kata Ibu Bapa</h2>
+    <div class="reviews-container">
+        <div class="review-card">
+            <p>"Anak saya sangat gembira belajar di sini. Persekitarannya sangat ceria!"</p>
+            <h4>- Puan Siti, Ibu kepada Ali</h4>
+        </div>
+        <div class="review-card">
+            <p>"Kurikulum yang sangat bagus. Digital literacy yang diajar sangat membantu."</p>
+            <h4>- Encik Razak, Bapa kepada Sarah</h4>
+        </div>
+    </div>-->
+
+
+	<!-- Section 5: Parent Testimonials -->
+        <section class="about-section">
+            <h2 style="text-align: center;">Voices of Our Community</h2>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <div class="stars">⭐⭐⭐⭐⭐</div>
+                    <p>"The best decision we made for our son. He transitioned to primary school with so much confidence thanks to the foundation here!"</p>
+                    <div class="parent-name">- Puan Siti, Mother of Aliff</div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="stars">⭐⭐⭐⭐⭐</div>
+                    <p>"I love the focus on active play. My daughter comes home every day excited to tell me about her creative arts projects."</p>
+                    <div class="parent-name">- Mr. Tan, Father of Chloe</div>
+                </div>
+            </div>
+        </section>
+
+		<section class=".cta-section1">
+        <div class=".cta-card1">
+            <img src="images/bg4.png" alt="Background Image" class="enrollment-bg"></img>
+        <div class="hero-overlay"></div>
+        <div class="cta-container">
+            <h2>Ready to Join the Fun?</h2>
+            <p>Spaces are filling up fast for the 2026 school year!</p>
+            <a href="contact.html" class="cta-button2">Enroll Your Child Now</a>
+        </div>
+        </div>
+    </section>
+
+	.reviews-section {
+    padding: 50px 20px;
+    background-color: #fdf6e9; /* Warna latar sedikit berbeza untuk pembahagi */
+    text-align: center;
+}
+
+.reviews-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.review-card {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    max-width: 300px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    border-bottom: 5px solid #4CAF50; /* Divider warna hijau untuk impak */
+}
+
+.review-card p {
+    font-style: italic;
+    color: #555;
+}
+
+.teachers-section {
+    background-color: #e2ffe4; /* Light sky blue background */
+    padding: 80px 20px;
+    text-align: center;
+    position: sticky;
+    top: 40px;
+}
+
+// Optional: Close menu when a link is clicked
+document.querySelectorAll('.nav-links li a').forEach(n => n.addEventListener('click', () => {
+    menu.classList.remove('is-active');
+    navLinks.classList.remove('active');
+}));
+const burgerMenu = document.querySelector('#mobile-menu');
+const sidebar = document.querySelector('#sidebar');
+
+// Open/Close Layer 1 Sidebar Container
+burgerMenu.addEventListener('click', function() {
+    sidebar.classList.toggle('active');
+    burgerMenu.classList.toggle('is-active');
+    
+    // Auto collapse inner nested layers if closing the main frame entirely
+    if(!sidebar.classList.contains('active')) {
+        document.querySelectorAll('.submenu-layer-2, .submenu-layer-3').forEach(layer => {
+            layer.classList.remove('slide-in');
+        });
+    }
+});
+
+// Drilling down inside the layers
+document.querySelectorAll('.submenu-toggle').forEach(toggle => {
+    toggle.addEventListener('click', function(e) {
+        e.preventDefault(); // Stop link jumping execution
+        const targetSubmenu = this.nextElementSibling;
+        if(targetSubmenu) {
+            targetSubmenu.classList.add('slide-in');
+        }
+    });
+});
+
+// Stepping back upwards through layers
+document.querySelectorAll('.back-btn a').forEach(backBtn => {
+    backBtn.addEventListener('click', function(e) {
+        e.preventDefault();
+        const structuralLayer = this.closest('ul');
+        if(structuralLayer) {
+            structuralLayer.classList.remove('slide-in');
+        }
+    });
+});
+
+// Burger Menu Logic
+    const menu = document.querySelector('#mobile-menu');
+    const navLinks = document.querySelector('.nav-links');
+
+    menu.addEventListener('click', function() {
+        navLinks.classList.toggle('active');
+        menu.classList.toggle('is-active');
+    });
+
+    document.querySelectorAll('.nav-links li a').forEach(link => {
+        link.addEventListener('click', () => {
+            menu.classList.remove('is-active');
+            navLinks.classList.remove('active');
+        });
+    });
+
+	// Optional: Close menu when a link is clicked
+document.querySelectorAll('.nav-links li a').forEach(n => n.addEventListener('click', () => {
+    menu.classList.remove('is-active');
+    navLinks.classList.remove('active');
+
+	@media (max-width: 768px) {
+    nav { flex-direction: column; }
+}
+
+     /*z-index: 1000;         Ensures it stays above all other content */
+    
+    /*box-shadow: 0 2px 10px rgba(0,0,0,0.1);  Adds a nice subtle shadow */
+
+    /* Desktop: Hide the burger */
+.menu-toggle {
+    display: none;
+    cursor: pointer;
+}
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    background-color: var(--primary-color, #ff6b6b);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Mobile Styles */
+@media screen and (max-width: 768px) {
+    .menu-toggle { display: block; }
+
+    .nav-links {
+        position: fixed;
+        left: -100%; /* Hidden by default */
+        top: 70px;
+        flex-direction: column;
+        background-color: #fff;
+        width: 100%;
+        text-align: center;
+        transition: 0.3s;
+        box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    }
+
+    /* When the menu is active/open */
+    .nav-links.active {
+        left: 0;
+    }
+
+    .nav-links li { margin: 15px 0; }
+}
+/* Animation for the "X" shape */
+#mobile-menu.is-active .bar:nth-child(2) {
+    opacity: 0; /* Hide the middle bar */
+}
+
+#mobile-menu.is-active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg); /* Move top bar down and rotate */
+}
+
+#mobile-menu.is-active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg); /* Move bottom bar up and rotate */
+}
+
+/* Ensure the bars have a smooth transition (Add this to your existing .bar class) */
+.bar {
+    transition: all 0.3s ease-in-out;
+}
+
+/* --- Desktop Reset --- */
+.sidebar-wrapper { display: block; }
+.submenu-layer-2, .submenu-layer-3 { display: none; }
+
+@media screen and (min-width: 769px) {
+    nav { display: flex; justify-content: space-between; align-items: center; padding: 15px 5%; }
+    .nav-links { display: flex; gap: 20px; list-style: none; }
+    .menu-toggle, .back-btn { display: none; }
+    /* Setup normal drop downs here for desktop if required */
+}
+
+/* --- Mobile 3-Layer Sidebar --- */
+@media screen and (max-width: 768px) {
+    nav { position: fixed; top: 0; left: 0; width: 100%; height: 70px; background: #fff; z-index: 1000; display: flex; justify-content: space-between; align-items: center; padding: 0 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    .menu-toggle { display: block; cursor: pointer; z-index: 1010; }
+    .bar { display: block; width: 25px; height: 3px; margin: 5px auto; background-color: #ff6b6b; transition: all 0.3s; }
+
+    /* Layer 1 Panel (Main Sidebar container) */
+    .sidebar-wrapper {
+        position: fixed;
+        top: 70px;
+        left: -100%; /* Hidden offscreen left */
+        width: 280px;
+        height: calc(100vh - 70px);
+        background: #ffffff;
+        box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+        transition: left 0.4s ease;
+        overflow-x: hidden;
+        z-index: 1005;
+    }
+    .sidebar-wrapper.active { left: 0; } /* Slide Layer 1 in */
+
+    .nav-links { list-style: none; padding: 20px 0; width: 100%; position: relative; }
+    .nav-links li a { display: flex; justify-content: space-between; align-items: center; padding: 15px 25px; color: #333; text-decoration: none; font-family: 'Nunito', sans-serif; font-size: 1.1rem; border-bottom: 1px solid #f5f5f5; }
+
+    /* Layer 2 and Layer 3 Panels Positioning */
+    .submenu-layer-2, .submenu-layer-3 {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 100%; /* Positioned outside to the right of parent panel */
+        width: 100%;
+        height: 100%;
+        background: #ffffff;
+        list-style: none;
+        padding-top: 20px;
+        transition: left 0.4s ease;
+        z-index: 1006;
+    }
+
+    /* Active utility classes to slide panels forward */
+    .submenu-layer-2.slide-in { left: 0; }
+    .submenu-layer-3.slide-in { left: 0; z-index: 1007; }
+
+    /* Formatting Back controls */
+    .back-btn a { background-color: #fff5f5; color: #ff6b6b !important; font-weight: bold; }
+    
+    /* Burger X Animation */
+    #mobile-menu.is-active .bar:nth-child(2) { opacity: 0; }
+    #mobile-menu.is-active .bar:nth-child(1) { transform: translateY(8px) rotate(45deg); }
+    #mobile-menu.is-active .bar:nth-child(3) { transform: translateY(-8px) rotate(-45deg); }
+}
+/* --- Dimmed Background Overlay --- */
+.sidebar-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* 50% dark tint */
+    backdrop-filter: blur(4px);           /* Optional: softens the background code */
+    -webkit-backdrop-filter: blur(4px);   /* Safari Support */
+    z-index: 1002;                        /* Sits right beneath the sidebar panel */
+    opacity: 0;
+    pointer-events: none;                 /* Allows clicks to pass through when hidden */
+    transition: opacity 0.4s ease;
+}
+
+/* Toggle state when open */
+.sidebar-overlay.visible {
+    opacity: 1;
+    pointer-events: auto;                 /* Blocks background clicks when open */
+}

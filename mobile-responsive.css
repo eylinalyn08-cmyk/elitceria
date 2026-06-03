@@ -1,0 +1,221 @@
+/* Standard smartphone breakpoint (usually around 480px or 600px) */
+@media screen and (max-width: 900px) {
+  .card-container {
+    width: 100%; /* Force full width */
+    /*flex-direction: column;  Stack sidebars under content */
+  }
+
+    /* 3. Features & Certifications (Stacking) */
+    .card-container, 
+    .certifications-grid, 
+    .footer-container {
+        display: flex;
+        flex-direction: column; /* Stacks items vertically */
+        align-items: center;
+        gap: 20px;
+    }
+
+    .card, .cert-item {
+        width: 90%; /* Makes cards almost full width */
+    }
+
+    /* 4. Enrollment Card Fix */
+    .enrollment-card {
+        width: 90% !important;
+        padding: 30px 15px !important; /* Forces small padding for thumb-scrolling */
+        margin: 0 auto;
+    }
+    
+    .features {
+        top: 0px;  /*Adjust based on your nav height */
+        z-index: -1;
+        height: 1100px;
+        position: relative;
+    }
+
+        .features h1 {
+            font-size: 2rem;
+            font-display: block;
+            color: wheat;
+         }
+
+        .features p {
+            font-size: 1.2rem;
+            margin-bottom: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+        }
+
+        .features h3 {
+            font-size: 1.25rem;
+            margin-bottom: 40px;
+            font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+        }
+    .teachers-section h2 {
+    font-size: 30px;
+    }
+    .teachers-section {
+        position: relative;
+        top: 0;
+        z-index: -1;
+    }
+    
+    /* 1. Disable all sticky/opacity issues 
+    .features, */
+    .enrollment-section, 
+    .your-sticky-element-class {
+        position: relative !important;
+        top: 0 !important;
+        height: auto !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        overflow: visible !important;
+        padding-top: 60px; /* Space for fixed nav */
+        padding-bottom: 60px;
+    }
+
+    /* 2. Horizontal Scroll Setup */
+    .card-container {
+        /*display: flex !important;
+        flex-direction: row !important;  Force them side-by-side */
+        overflow-x: auto !important;    /* Enable swipe */
+        scroll-snap-type: x mandatory; 
+        gap: 15px;
+        /*padding: 20px 5% !important;    Side padding for better look */
+        scrollbar-width: none;          /* Hide scrollbar Firefox */
+        -webkit-overflow-scrolling: touch;
+    }
+
+    /* Hide scrollbar Chrome/Safari */
+    .card-container::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* 3. Card Sizing */
+    .card {
+    background: white;
+    /* 1. Force equal width and height for a perfect circle */
+    width: 230px; 
+    height: 230px;
+    border-radius: 50%; /* 50% is cleaner than 100% for circles */
+    
+    /* 2. Center content inside the circle */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    /* 3. Tighter spacing */
+    padding: 30px; 
+    text-align: center;
+    box-shadow: 0 8px 15px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease;
+    border-bottom: 8px solid #ffd70f;
+    
+    /* 4. Remove flex-grow so they stay at 260px */
+    flex: 0 0 260px; 
+}
+
+/* 5. Shrink text so it fits inside the circle without touching edges */
+.card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+}
+
+.card p {
+    font-size: 0.85rem;
+    line-height: 1.3;
+    margin: 0;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;              /* Reduced gap between cards from 30px */
+    flex-wrap: wrap;
+    padding: 0px;          /* Added small padding to container */
+}
+/* Global Safety Fix */
+section, .main-container-class {
+    overflow: visible !important;
+}
+
+    /* 5. Social Icons 
+    .social-icons {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        flex-wrap: wrap; /* Allows icons to wrap to a new line if too many
+    }*/
+
+/* --- Desktop Settings (Tablet & Up) 
+@media screen and (min-width: 769px) {
+    .card-container {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+    }
+}--- */
+/* ==========================================
+   NAVIGATION SIDEBAR PANEL STYLING
+   ========================================== */
+/* Base styles for the sidebar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px; /* Width of the sidebar */
+  height: 100%;
+  background-color: #ffffff;    /* Changed from #111 to white for better mobile visibility */
+  padding-top: 80px;           /* Space for the fixed nav bar */ 
+    /* Hides the sidebar to the left */
+    transform: translateX(-100%);
+    /* Smooth sliding effect */
+    transition: transform 0.3s ease-in-out;
+    z-index: 5;
+}
+/* Class to slide the sidebar into view */
+.sidebar.open {
+  transform: translateX(0);
+}  
+/* Navigation Links */
+.nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+} 
+.nav-links li a {
+  display: block;
+  padding: 15px 25px;
+  color: black; /* Changed from white to black for better contrast on white background */
+  text-decoration: none;
+  font-size: 18px;
+}
+/* Hover effect for links */
+.nav-links li a:hover {
+  background-color: red;
+}
+/* Burger Button Styling */
+.burger-btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+  cursor: pointer; 
+}
+.desktop-menu {
+    display: none;
+  }
+  
+
+/* Style your desktop menu normally */
+.desktop-menu a {
+  margin-left: 20px;
+  text-decoration: none;
+}
+}
+
+.burger-btn {
+  display: none; 
+}

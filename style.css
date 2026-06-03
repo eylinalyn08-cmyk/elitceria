@@ -6,7 +6,8 @@
     --secondary-color: #228B22; /* Green */
     --accent-color: #FFD700;    /* Sun Yellow */
     --text-color: #2D3436;
-    --bg-color: #ffffff;        /* Light Tint */}
+    --bg-color: ##f8f9fa;        /* Light Tint */
+}
 
 *, *::before, *::after {
     box-sizing: border-box;
@@ -21,12 +22,10 @@ html, body {
 
 body {
     font-family: 'Nunito', sans-serif;
-    margin: 0;
-    padding: 0;
     background-color: var(--bg-color);
     color: var(--text-color);
     /*line-height: 1.6;*/
-    overflow-x: hidden;}
+}
 
 img, video {
     max-width: 100%;

@@ -6,7 +6,7 @@
     --secondary-color: #228B22; /* Green */
     --accent-color: #FFD700;    /* Sun Yellow */
     --text-color: #2D3436;
-    --bg-color: #FFF9F9;        /* Light Tint */
+    --bg-color: #f8f9fa;        /* Light Tint */
 }
 
 *, *::before, *::after {

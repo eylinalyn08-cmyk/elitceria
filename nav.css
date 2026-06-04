@@ -10,14 +10,16 @@
 nav {
     background-color: #fff; 
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-    position: sticky;
+    position: fixed;
     top: 0;
     left: 0;
+    width: 100%;
     z-index: 100;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 5%;
+    box-sizing: border-box;
 }
 
 .nav-links {
@@ -72,7 +74,7 @@ nav {
     padding: 10px 15px;        
     background-color: white;
     /* Crucial changes for top fixation */
-    position: absolute;           /* Locks the header in place relative to the screen */
+    position: fixed;           /* Locks the header in place relative to the screen */
     top: 0;                    /* Aligns it perfectly to the absolute top edge */
     left: 0;                   /* Aligns it to the left edge */
     width: 100%;               /* Forces the bar to span the full viewport width */
@@ -89,23 +91,21 @@ nav {
   }
 
   .features{
-        position: relative !important;
-        top: 0 !important;
-        height: auto !important;
-        opacity: 1 !important;
-        visibility: visible !important;
-        overflow: visible !important;
+        position: relative;
+        height: auto;
+        opacity: 1;
+        visibility: visible;
+        overflow: visible;
         padding-top: 60px; /* Space for fixed nav */
         padding-bottom: 60px;
     }
 
     .hero{
-        position: relative !important;
-        top: 0 !important;
-        height: auto !important;
-        opacity: 1 !important;
-        visibility: visible !important;
-        overflow: visible !important;
+        position: relative;
+        height: auto;
+        opacity: 1;
+        visibility: visible;
+        overflow: visible;
         padding-top: 60px; /* Space for fixed nav */
         padding-bottom: 60px;
     }
